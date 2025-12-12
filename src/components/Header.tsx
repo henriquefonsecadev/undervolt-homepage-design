@@ -33,9 +33,9 @@ const Header = () => {
           {/* Logo */}
           <a href="#home" className="flex items-center gap-2">
             <div className="relative">
-              <span className="font-display text-xl md:text-2xl font-bold tracking-tight">
-                UNDER<span className="text-primary">VOLT</span>
-              </span>
+            <span className="font-display text-xl md:text-2xl font-bold tracking-tight">
+              UNDER<span className="text-primary">VOLTZ</span>
+            </span>
               <div className="absolute -bottom-1 left-0 w-full h-0.5 bg-primary/50" />
             </div>
           </a>

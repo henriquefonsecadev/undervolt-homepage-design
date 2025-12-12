@@ -22,7 +22,7 @@ const AboutSection = () => {
             </h2>
             <div className="space-y-4 text-muted-foreground leading-relaxed mb-8">
               <p>
-                <strong className="text-foreground">Undervolt</strong> é a sua parceira em otimização de TI e suporte corporativo. 
+                <strong className="text-foreground">Undervoltz</strong> é a sua parceira em otimização de TI e suporte corporativo. 
                 Somos especialistas em garantir a estabilidade máxima da sua infraestrutura, 
                 permitindo que sua empresa opere com eficiência total e sem interrupções.
               </p>
@@ -62,7 +62,7 @@ const AboutSection = () => {
                 <blockquote className="text-xl md:text-2xl font-display font-medium mb-4 text-foreground">
                   "Performance inteligente começa com uma infraestrutura estável."
                 </blockquote>
-                <cite className="text-muted-foreground text-sm">— Filosofia UNDERVOLT</cite>
+                <cite className="text-muted-foreground text-sm">— Filosofia UNDERVOLTZ</cite>
               </div>
             </div>
 
