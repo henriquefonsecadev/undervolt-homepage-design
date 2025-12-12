@@ -11,7 +11,7 @@ const Footer = () => {
           <div className="lg:col-span-2">
             <a href="#home" className="inline-block mb-4">
               <span className="font-display text-2xl font-bold tracking-tight">
-                UNDER<span className="text-primary">VOLT</span>
+                UNDER<span className="text-primary">VOLTZ</span>
               </span>
             </a>
             <p className="text-muted-foreground max-w-md mb-6">
@@ -73,7 +73,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="mt-12 pt-8 border-t border-border flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-sm text-muted-foreground">
-            © {currentYear} UNDERVOLT. Todos os direitos reservados.
+            © {currentYear} UNDERVOLTZ. Todos os direitos reservados.
           </p>
           <div className="flex gap-6">
             <a href="#" className="text-sm text-muted-foreground hover:text-primary transition-colors">
